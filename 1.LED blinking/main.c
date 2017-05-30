@@ -1,4 +1,4 @@
-// Tapas GIT
+// This is the first program
 // This is your first program to run on the LaunchPad
 // You will run this program without modification as your Lab 2
 // If the left switch SW1 is 
